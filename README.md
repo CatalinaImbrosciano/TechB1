@@ -4,6 +4,8 @@
 
 ###### This is my first time **programming**, lets see how it goes :)
 
+![Shrek](./assignments/images/shrek.jpg)
+
 #### Folder structure: 
 - TechB1/assignments/week1 :
    - Ex.1.py
