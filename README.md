@@ -1,9 +1,9 @@
 ## TechB1
 
-#Assignments and exercise
+# Assignments and exercise
 
-##This is my first time _programing_, lets see how it goes :)
+## This is my first time _programing_, lets see how it goes :)
 
-###Folder structure: 
+### Folder structure: 
 - TechB1/assignments/week1 :
   1.Ex1.py
