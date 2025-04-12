@@ -6,4 +6,4 @@
 
 #### Folder structure: 
 - TechB1/assignments/week1 :
-   Ex.1.py
+   - Ex.1.py
