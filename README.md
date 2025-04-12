@@ -2,7 +2,7 @@
 
 ### Assignments and exercise
 
-####This is my first time _programing_, lets see how it goes :)
+#### This is my first time _programing_, lets see how it goes :)
 
 ### Folder structure: 
 - TechB1/assignments/week1 :
