@@ -4,7 +4,7 @@
 
 #### Folder structure: 
 - TechB1/assignments/week1 :
-   - Ex.1.py
+   - Exercise.1.py
 - TechB1/assignments/images :
   - Shrek.jpg 
 
