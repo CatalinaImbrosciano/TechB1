@@ -4,12 +4,15 @@
 
 #### Folder structure: 
 - TechB1/assignments
-  
+
+
   /week1 :
    - ascii.py
      
   /week2 :
    - game.py
+
+
 
 - TechB1/assignments/images :
   - Shrek.jpg 
