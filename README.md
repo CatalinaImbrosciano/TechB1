@@ -4,11 +4,10 @@
 
 #### Folder structure: 
 - TechB1/assignments
-
-
-    /week1 :  - ascii.py
+  
+    /week1/ascii.py
      
-    /week2 :  - game.py
+    /week2/game.py
 
 
 
