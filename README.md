@@ -9,6 +9,10 @@
      
       /week2/game.py
 
+      /week3/ASCII2.py
+
+      /week4/game2.py
+
 
 
 - TechB1/assignments/images :
